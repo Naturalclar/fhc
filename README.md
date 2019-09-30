@@ -2,9 +2,19 @@
 
 Forkwell Jobs で、すでにメモしたユーザを非表示にする chrome 拡張機能。
 
-# Usage
+## Usage
 
-- このリポジトリを Clone する。
+### Clone thie repository
+
+```
+git clone git+https://github.com/Naturalclar/fhc.git
+```
+
+### Install dependencies
+
+```
+yarn
+```
 
 - chrome タブを開き、`chrome://extensions`と入力して Extension 一覧を開く
 
